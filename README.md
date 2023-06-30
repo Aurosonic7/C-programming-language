@@ -11,7 +11,13 @@
   <tr>
     <td>
       <p><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px><b> Notes of programming language C </b><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></p>
-      <li>Basico</li>
+      <li>Basic</li>
+      <li>Strings</li>
+      <li>Pointers</li>
+      <li>Structs</li>
+      <li>Files</li>
+      <li>Manage Memory</li>
+      <li>Vector</li>
     </td>
     <td>
       <h3 align=center>💵 You would help me a lot with your donation!!! 💵</h3>
